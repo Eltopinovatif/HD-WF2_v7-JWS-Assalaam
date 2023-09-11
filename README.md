@@ -10,7 +10,7 @@ Main suport web : https://assalaamjws.blogspot.com
 
 Lisensi : - contac : 089401338686, 085258777353 ASSALAAM ADMIN
 
-Firmware Jws HD-WF2v7 : https://github.com/Eltopinovatif/HD-WF1_v7-JWS-Assalaam
+Firmware Jws HD-WF1v7 : https://github.com/Eltopinovatif/HD-WF1_v7-JWS-Assalaam
 
 FirmWare Esp32 AssalaamJws RGB_pcb kalifah : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20Esp32%20AssalaamJws%20RGB_pcb%20kalifah
 
