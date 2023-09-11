@@ -10,19 +10,19 @@ Main suport web : https://assalaamjws.blogspot.com
 
 Lisensi : - contac : 089401338686, 085258777353 ASSALAAM ADMIN
 
-	Firmware Jws HD-WF2v7 : https://github.com/Eltopinovatif/HD-WF1_v7-JWS-Assalaam
+Firmware Jws HD-WF2v7 : https://github.com/Eltopinovatif/HD-WF1_v7-JWS-Assalaam
 
-	FirmWare Esp32 AssalaamJws RGB_pcb kalifah : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20Esp32%20AssalaamJws%20RGB_pcb%20kalifah
+FirmWare Esp32 AssalaamJws RGB_pcb kalifah : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20Esp32%20AssalaamJws%20RGB_pcb%20kalifah
 
-	FirmWare Esp32 AssalaamJws Single_pcb kalifah : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20Esp-12F%20Esp8266%20AssalaamJws%20MONO
+FirmWare Esp32 AssalaamJws Single_pcb kalifah : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20Esp-12F%20Esp8266%20AssalaamJws%20MONO
 
-	FirmWare Esp32 AssalaamJws RGB pcb MICRO TEN : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20Esp32%20AssalaamJws%20RGB%20pcb%20MICRO%20TEN
+FirmWare Esp32 AssalaamJws RGB pcb MICRO TEN : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20Esp32%20AssalaamJws%20RGB%20pcb%20MICRO%20TEN
 
-	FirmWare AssalaamJws RGB Esp-12F PCB LUTHFAN : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20AssalaamJws%20RGB%20Esp-12F%20PCB%20LUTHFAN
+FirmWare AssalaamJws RGB Esp-12F PCB LUTHFAN : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/FirmWare%20AssalaamJws%20RGB%20Esp-12F%20PCB%20LUTHFAN
 
-	Firmware Assalaam esp-12 Auto-Tartil : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/Firmware%20Assalaam%20Auto-Tartil
+Firmware Assalaam esp-12 Auto-Tartil : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/Firmware%20Assalaam%20Auto-Tartil
 
-	firmware Assalaam esp-12/esp32 bermacam-macam PCB : https://github.com/Eltopinovatif/Assalam-Jws
+firmware Assalaam esp-12/esp32 bermacam-macam PCB : https://github.com/Eltopinovatif/Assalam-Jws
 
 VIDIO DEMO: PANEL P5 1X2 DAN P10 2X2 PANEL : https://www.youtube.com/watch?v=EP0S3HSJg_g
 
