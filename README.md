@@ -10,6 +10,8 @@ Main suport web : https://assalaamjws.blogspot.com
 
 Lisensi : - contac : 089401338686, 085258777353 ASSALAAM ADMIN
 
+Firmware Jws HD-WF2v7 : https://github.com/Eltopinovatif/HD-WF1_v7-JWS-Assalaam
+
 VIDIO DEMO: PANEL P5 1X2 DAN P10 2X2 PANEL : https://www.youtube.com/watch?v=EP0S3HSJg_g
 
 PANEL P5 1X3 DAN P10 2X6 PANEL : https://youtu.be/rUy3U-a7_c0
