@@ -11,6 +11,7 @@ Main suport web : https://assalaamjws.blogspot.com
 Lisensi : - contac : 089401338686, 085258777353 ASSALAAM ADMIN
 
 Firmware Jws HD-WF2v7 : https://github.com/Eltopinovatif/HD-WF1_v7-JWS-Assalaam
+FirmWare Esp32 AssalaamJws RGB_pcb kalifah : 
 
 VIDIO DEMO: PANEL P5 1X2 DAN P10 2X2 PANEL : https://www.youtube.com/watch?v=EP0S3HSJg_g
 
